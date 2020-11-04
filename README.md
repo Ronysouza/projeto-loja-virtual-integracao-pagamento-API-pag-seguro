@@ -1,0 +1,1 @@
+Plaratforma loja e-commerce simples com integração pagamento automatizado via pagseguro
