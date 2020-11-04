@@ -1,0 +1,19 @@
+.iten_prods{
+	text-align: center;
+	transition: 0.5s;
+	color: #333;
+	 padding: 10px;
+	 margin-bottom: 20px;
+}
+
+.iten_prods:hover{
+	transition: 0.5s;
+	transform: scale(1.08);
+	box-shadow: 0 3px 15px -7px #32CD32;
+
+}
+
+.produto_descricao{
+	border-left: 4px solid #32CD32;
+	padding: 30px;
+}

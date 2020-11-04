@@ -1,0 +1,141 @@
+.topo{
+	background-color: #333;
+}
+
+.top{
+	float: right;
+	padding: 10px;
+}
+
+.menu_into{
+	max-width: 1800px;
+	width: 100%;
+	margin: auto;
+	background-image: url(http://testeloja.r7webdesign.com/assets/images/fundo1.jpg);
+
+}
+
+.menu ul{
+
+	list-style: none;
+
+}
+
+.menu li{
+     padding: 10px;
+     margin-left: 2px;
+    transition: 0.5s;
+	float: left;
+	margin-right: 2px;
+}
+
+.menu li:hover{
+	transition: 0.5s;
+	background-color: #32CD32;
+
+}
+
+
+.menu a{
+	color: #333;
+	font-size: 18px;
+	text-align: center;
+
+}
+
+#img_logo{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+
+.menu_cat{
+
+max-width: 1800px;
+	width: 100%;
+	background-color: #333;
+	margin: auto;
+
+}
+ 
+ .menu_int{
+ 	max-width: 1000px;
+ 	width: 100%;
+ 	margin: auto;
+ 	text-align: center;
+ }
+
+.menu_int ul{
+	padding-top: 5px;
+	 padding-bottom: 5px;
+	list-style: none;
+	margin: 0;
+
+}
+ .menu_int li{
+
+ 	 padding: 10px;
+
+     margin-left: 2px;  
+
+	margin-right: 2px;
+ 	display: inline-block;
+ 	transition: 0.5s;
+ }
+
+ .menu_int li:hover{
+ 	transition: 0.5s;
+	background-color: #32CD32;
+
+}
+
+ .menu_int a{
+ 	color: #fff;
+
+ }
+
+ .rodape{
+ 	border-top: 4px solid #32CD32;
+ 	padding: 20px;
+ 	background-color: #333;
+ 	color: #999;
+ 	
+ }
+
+ .rodape_menu{
+ 	text-align: left;
+ }
+
+ .rodape_menu a{
+margin: 10px;
+color: #999;
+font-size: 20px;
+ }
+
+ .img_rodape{
+ 	text-align: center;
+ }
+
+ .logo_r7{
+ 	 
+ 	max-width: 1800px;
+ 	width: 100%;
+ 
+ 		
+ 		 
+ }
+
+ .logo_r7 img{
+
+ }
+
+ .logo_r7 a{
+    opacity: 0.4; 
+    transition: 0.5s;
+}
+
+.logo_r7 a:hover{
+	transition: 0.5s;
+    opacity: 1; 
+}

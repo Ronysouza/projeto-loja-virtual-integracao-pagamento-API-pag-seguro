@@ -1,0 +1,95 @@
+ .banner_int_carrousel{
+ 	background-image: url(http://vipmodas.tk/assets/images/fundo3.png);
+
+ 	max-width: 900px;
+ 	width: 100%;
+ 	margin: auto;
+ 	color: #000;
+ 	border-left: 4px solid #32CD32;
+ 	padding: 20px;
+ 	height: 300px;
+
+ }
+
+ .carousel-inner_img{
+
+  padding-top: 5%;
+  padding-bottom: 5%;
+ }
+
+.banner_baixo h2{
+	font-size: 50px;
+	font-weight: 500;
+}
+ .banner_baixo p{
+color: #999;
+
+
+ }
+
+ .banner_baixo{
+ 	text-align: center;
+ 	padding: 50px;
+ 	font-size: 20px;
+ 	
+ }
+
+ .container_icon{
+ 	background-color: #333;
+ 	text-align: center;
+ 	color: #fff;
+ 	padding-top: 50px;
+ 	padding-bottom: 50px;
+ 	border-bottom: 3px solid #32CD32;
+ }
+
+ .banner_content{
+ 	margin-top: 90px;
+ 	margin-bottom: 30px;
+ }
+
+ #banner_img{
+ 	background-color: #ddd;
+ }
+
+ #banner_img img{
+ 	margin-top: -100px;
+ }
+
+ #banner_fundo{
+ 		background-image: url(http://vipmodas.tk/assets/images/fundo1.jpg);
+ }
+
+  #banner_fundo p{
+  	text-align: justify;
+  	font-size: 20px;
+  	color: #999;
+  }
+
+  #carr_img img{
+  	margin: 5px;
+  	transition: 0.5s;
+  }
+
+    #carr_img img:hover{
+  	transition: 0.5s;
+  	transform: scale(1.05);
+  	box-shadow: 0 3px 15px -7px #32CD32;
+  }
+
+
+
+  #efeito_banner div{
+  font-size: 20px;
+  	transition: 0.5s;
+  	margin-bottom: 30px;
+  	margin-top: 30px;
+  }
+
+   #efeito_banner div:hover{
+
+  	transition: 0.5s;
+  	transform: scale(1.05);
+  	cursor: pointer;
+
+  }
